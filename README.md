@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @pradipbankar0097
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning whatever college is teaching
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Pradip Bankar
+
 - 📫 reach me at pradipbankar0097@gmail.com
 
 <!---
